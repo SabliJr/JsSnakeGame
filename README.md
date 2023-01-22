@@ -1,3 +1,3 @@
 # JsSnakeGame
 
-This JavaScript SnakeGame
+This is JavaScript SnakeGame
